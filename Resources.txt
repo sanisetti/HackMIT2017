@@ -1,0 +1,2 @@
+https://developer.android.com/guide/topics/media/mediarecorder.html
+http://www.dreamincode.net/forums/topic/303235-visualizing-sound-from-the-microphone/
